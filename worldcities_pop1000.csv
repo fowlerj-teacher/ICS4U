@@ -1,0 +1,46 @@
+city,lat,lng,country,pop
+Tokyo,35.6762,139.6503,Japan,37400000
+Delhi,28.6139,77.209,India,30290000
+Shanghai,31.2304,121.4737,China,27058000
+São Paulo,-23.5505,-46.6333,Brazil,22046000
+Mexico City,19.4326,-99.1332,Mexico,21782000
+Cairo,30.0444,31.2357,Egypt,20485000
+Mumbai,19.076,72.8777,India,20411000
+Beijing,39.9042,116.4074,China,20384000
+Dhaka,23.8103,90.4125,Bangladesh,20283000
+Osaka,34.6937,135.5023,Japan,19281000
+New York,40.7128,-74.006,United States,18804000
+Karachi,24.8607,67.0011,Pakistan,16094000
+Buenos Aires,-34.6037,-58.3816,Argentina,15154000
+Chongqing,29.4316,106.9123,China,15872000
+Istanbul,41.0082,28.9784,Turkey,15519000
+Kolkata,22.5726,88.3639,India,14850000
+Manila,14.5995,120.9842,Philippines,13923000
+Lagos,6.5244,3.3792,Nigeria,13903000
+Rio de Janeiro,-22.9068,-43.1729,Brazil,13374000
+Tianjin,39.3434,117.3616,China,13215000
+Kinshasa,-4.4419,15.2663,Democratic Republic of the Congo,13171000
+Guangzhou,23.1291,113.2644,China,13089000
+Los Angeles,34.0522,-118.2437,United States,12447000
+Moscow,55.7558,37.6173,Russia,12537000
+Shenzhen,22.5431,114.0579,China,12356000
+Lahore,31.5497,74.3436,Pakistan,12188000
+Bangalore,12.9716,77.5946,India,12040000
+Paris,48.8566,2.3522,France,11010000
+Bogotá,4.711,-74.0721,Colombia,10978000
+Jakarta,-6.2088,106.8456,Indonesia,10562000
+London,51.5074,-0.1278,United Kingdom,9304000
+Lima,-12.0463,-77.0428,Peru,9752000
+Seoul,37.5665,126.978,South Korea,9963000
+Bangkok,13.7563,100.5018,Thailand,10539000
+Chicago,41.8781,-87.6298,United States,8865000
+Toronto,43.6532,-79.3832,Canada,6197000
+Vancouver,49.2827,-123.1207,Canada,2581000
+Montreal,45.5017,-73.5673,Canada,4247000
+Sydney,-33.8688,151.2093,Australia,5312000
+Melbourne,-37.8136,144.9631,Australia,5078000
+Reykjavik,64.1466,-21.9426,Iceland,131136
+Banff,51.1784,-115.5708,Canada,7847
+St. Andrews,56.3398,-2.7967,United Kingdom,16800
+Valparaíso,-33.0472,-71.6127,Chile,296655
+Queenstown,-45.0312,168.6626,New Zealand,15800
